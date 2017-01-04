@@ -1,1 +1,1 @@
-Este es el archivo donde descrivo todo.
+Este es el archivo donde describo todo.
